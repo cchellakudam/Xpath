@@ -1,0 +1,88 @@
+{
+	"root": {
+		"Kundenfirmen": [
+			{
+				"Firmenname": "Siemens",
+				"Firmenadresse": {
+					"Land": "Österreich",
+					"Ort": "Wien",
+					"PLZ": "2000",
+					"Straße": "Hubertraße",
+					"Hausnummer": "42"
+				},
+				"Ansprechperson": {
+					"Anrede": "Herr",
+					"Alter": "22",
+					"Nachname": "Mustermann",
+					"Vorname": "Max"
+				},
+				"_id": "01"
+			},
+			{
+				"Firmenname": "Microsoft",
+				"Firmenadresse": {
+					"Land": "Österreich",
+					"Ort": "Wien",
+					"PLZ": "1180",
+					"Straße": "Sesamstraße",
+					"Hausnummer": "53"
+				},
+				"Ansprechperson": {
+					"Anrede": "Herr",
+					"Alter": "23",
+					"Nachname": "Mustermann",
+					"Vorname": "Hans"
+				},
+				"_id": "02"
+			},
+			{
+				"Firmenname": "Apple",
+				"Firmenadresse": {
+					"Land": "Österreich",
+					"Ort": "Wien",
+					"PLZ": "1100",
+					"Straße": "Mustermannstraße",
+					"Hausnummer": "35"
+				},
+				"Ansprechperson": [
+					{
+						"Anrede": "Herr",
+						"Alter": "24",
+						"Nachname": "Mustermann",
+						"Vorname": "Robert"
+					},
+					{
+						"Anrede": "Herr",
+						"Alter": "27",
+						"Nachname": "Müller",
+						"Vorname": "Franz"
+					},
+					{
+						"Anrede": "Herr",
+						"Alter": "26",
+						"Nachname": "Schuhmacher",
+						"Vorname": "Dieter"
+					}
+				],
+				"_id": "03"
+			}
+		],
+		"Bestellung": [
+			{
+				"Bestellungdatum": "19-02-2017",
+				"Verkaufspreis": "600",
+				"_id": "01"
+			},
+			{
+				"Bestellungdatum": "20-02-2017",
+				"Verkaufspreis": "700",
+				"_id": "02"
+			},
+			{
+				"Bestellungdatum": "21-02-2017",
+				"Verkaufspreis": "800.",
+				"_id": "03"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Kundenfirmen id="01">
+	<Firmenname>Siemens</Firmenname>
+	<Firmenadresse>
+		<Land>Österreich</Land>
+		<Ort>Wien</Ort>
+		<PLZ>2000</PLZ>
+		<Straße>Hubertraße</Straße>
+		<Hausnummer>42</Hausnummer>
+	</Firmenadresse>
+	<Ansprechperson>
+		<Anrede>Herr</Anrede>
+		<Alter>22</Alter>
+		<Nachname>Mustermann</Nachname>
+		<Vorname>Max</Vorname>
+	</Ansprechperson>	
+</Kundenfirmen>
+
+<Kundenfirmen id ="02">
+	
+	<Firmenname>Microsoft</Firmenname>
+	<Firmenadresse>
+		<Land>Österreich</Land>
+		<Ort>Wien</Ort>
+		<PLZ>1180</PLZ>
+		<Straße>Sesamstraße</Straße>
+		<Hausnummer>53</Hausnummer>
+	</Firmenadresse>
+	<Ansprechperson>
+		<Anrede>Herr</Anrede>
+		<Alter>23</Alter>
+		<Nachname>Mustermann</Nachname>
+		<Vorname>Hans</Vorname>
+	</Ansprechperson>	
+</Kundenfirmen>
+
+
+<Kundenfirmen id ="03">
+	
+	<Firmenname>Apple</Firmenname>
+	<Firmenadresse>
+		<Land>Österreich</Land>
+		<Ort>Wien</Ort>
+		<PLZ>1100</PLZ>
+		<Straße>Mustermannstraße</Straße>
+		<Hausnummer>35</Hausnummer>
+	</Firmenadresse>
+	<Ansprechperson>
+		<Anrede>Herr</Anrede>
+		<Alter>24</Alter>
+		<Nachname>Mustermann</Nachname>
+		<Vorname>Robert</Vorname>
+	</Ansprechperson>
+	<Ansprechperson>
+		<Anrede>Herr</Anrede>
+		<Alter>27</Alter>
+		<Nachname>Müller</Nachname>
+		<Vorname>Franz</Vorname>
+	</Ansprechperson>		
+	<Ansprechperson>
+		<Anrede>Herr</Anrede>
+		<Alter>26</Alter>
+		<Nachname>Schuhmacher</Nachname>
+		<Vorname>Dieter</Vorname>
+	</Ansprechperson>			
+</Kundenfirmen>
+
+
+
+
+<Bestellung id ="01" >
+	
+	<Bestellungdatum>19-02-2017</Bestellungdatum>
+	<Verkaufspreis>600</Verkaufspreis>
+</Bestellung>
+<Bestellung id ="02">
+	
+	<Bestellungdatum>20-02-2017</Bestellungdatum>
+	<Verkaufspreis>700</Verkaufspreis>
+</Bestellung >
+<Bestellung id ="03">
+	
+	<Bestellungdatum>21-02-2017</Bestellungdatum>
+	<Verkaufspreis>800</Verkaufspreis>
+</Bestellung>
+</root>
